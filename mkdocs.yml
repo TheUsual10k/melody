@@ -19,8 +19,19 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    primary: red
-    accent: deep orange
+    - scheme: slate
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+    - scheme: default
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
 extra:
   homepage: https://melodybot.tk
   social:

@@ -7,7 +7,7 @@ Melody makes it possible to listen to your favorite music with all your friends.
 <img src="https://cdn.algoriq.live/m2.png" width="50" height="50" />
 
 <figure>
-  <img align="left" src="https://cdn.algoriq.live/ms1.gif" width="400" height="400">
+  <img align="left" src="https://cdn.algoriq.live/ms11.gif">
   <figcaption>Ready to listen music?</figcaption>
 </figure>
 
