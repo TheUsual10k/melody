@@ -5,6 +5,7 @@ nav:
     - 'Homepage': 'index.md'
     - 'Adding Melody' : 'instructions.md'
     - 'Commands' : 'commands.md'
+    - 'Melody | Team' : 'team.md'
 theme:
   name: material
   logo: https://cdn.algoriq.live/melody.png

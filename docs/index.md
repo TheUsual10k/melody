@@ -3,11 +3,11 @@
 Melody makes it possible to listen to your favorite music with all your friends. Add it to Discord today and start listening!
 
 <img src="https://cdn.algoriq.live/mpfp.png" width="50" height="50" />
-<img src="https://cdn.algoriq.live/m1.png" width="50" height="50" />
 <img src="https://cdn.algoriq.live/m2.png" width="50" height="50" />
+<img src="https://cdn.algoriq.live/m1.png" width="50" height="50" />
 
 <figure>
-  <img align="left" src="https://cdn.algoriq.live/ms11.gif">
+  <img src="https://cdn.algoriq.live/ms11.gif">
   <figcaption>Ready to listen music?</figcaption>
 </figure>
 
@@ -21,3 +21,5 @@ Melody makes it possible to listen to your favorite music with all your friends.
 ## Add Melody!
 
 You can invite Melody to your server in few clicks! It's simple , just follow the [instructions](https://melodybot.tk/instructions) on how to add melody
+
+[Edit the page?](https://github.com/AyushSehrawat/melody)
