@@ -1,3 +1,8 @@
+---
+title: Melody
+description: Yet another discord music bot!
+---
+
 # Melody
 
 Melody makes it possible to listen to your favorite music with all your friends. Add it to Discord today and start listening!

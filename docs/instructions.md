@@ -1,3 +1,8 @@
+---
+title: Melody | Adding Melody
+description: Try out this guide if you are facing issues adding melody!
+---
+
 # Adding Melody
 
 Liked Melody? We currently offer 3 bots for free

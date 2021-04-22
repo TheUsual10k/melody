@@ -1,3 +1,8 @@
+---
+title: Melody | Commands
+description: List of all the Melody commands!
+---
+
 # Commands
 
 !!! info "Always keep this in mind!"
