@@ -1,0 +1,38 @@
+site_name: Melody
+site_description: Melody Bot | Yet another discord music bot
+site_url: https://melodybot.tk
+nav:
+    - 'Homepage': 'index.md'
+    - 'Adding Melody' : 'instructions.md'
+    - 'Commands' : 'commands.md'
+theme:
+  name: material
+  logo: https://cdn.algoriq.live/melody.png
+  favicon: https://cdn.algoriq.live/mpfp.png
+  language: en
+  features:
+    - search.highlight
+    - search.suggest
+    - search.share
+    - header.autohide
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    primary: red
+    accent: deep orange
+extra:
+  homepage: https://melodybot.tk
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AyushSehrawat/
+plugins:
+  - search:
+      lang: en
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - attr_list
+  - meta
