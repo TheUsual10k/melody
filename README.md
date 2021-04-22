@@ -3,9 +3,6 @@
 Melody is a discord music bot , free to use and high quality!
 
 <img src="https://cdn.algoriq.live/mpfp.png" width="50" height="50" />
-<img src="https://cdn.algoriq.live/m1.png" width="50" height="50" />
-<img src="https://cdn.algoriq.live/m2.png" width="50" height="50" />
-
 
 This repository consists of the source code of [melody bot website](https://melodybot.tk/). 
 
