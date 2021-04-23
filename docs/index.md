@@ -5,7 +5,7 @@ description: Yet another discord music bot!
 
 # Melody
 
-Melody makes it possible to listen to your favorite music with all your friends. Add it to Discord today and start listening!
+Melody makes an easier way to listen your favorite music with your all friends on Discord! Invite Melody and start vibin'
 
 <img src="https://cdn.algoriq.live/mpfp.png" width="50" height="50" />
 <img src="https://cdn.algoriq.live/m2.png" width="50" height="50" />
